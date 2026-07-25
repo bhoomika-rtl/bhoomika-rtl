@@ -4,7 +4,7 @@
 
 I'm passionate about digital hardware design and enjoy bringing ideas to life through RTL.
 
-This GitHub is where I document my journey through digital hardware design by sharing the projects I build, the ideas I explore, and the concepts I learn along the way. From Verilog/SystemVerilog designs and FPGA implementations to the RTL-to-GDSII design flow, each repository reflects a step in my continuous learning and growth as a hardware designer.
+This GitHub is where I document my journey through digital hardware design by sharing the projects I build, the ideas I explore, and the concepts I learn along the way. From Verilog/SystemVerilog designs and FPGA implementations to the RTL-to-GDSII design flow, each repository documents a part of my journey into RTL design and ASIC implementation.
 
 ---
 

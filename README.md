@@ -63,8 +63,6 @@ This GitHub is where I document my journey through digital hardware design by sh
 
 ![](https://github-readme-stats.shion.dev/api?username=bhoomika-rtl&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhoomika-rtl&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 
 <!--

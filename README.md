@@ -6,7 +6,6 @@ I'm passionate about digital hardware design and enjoy bringing ideas to life th
 
 This GitHub is where I document my journey through digital hardware design by sharing the projects I build, the ideas I explore, and the concepts I learn along the way. From Verilog/SystemVerilog designs and FPGA implementations to the RTL-to-GDSII design flow, each repository documents a part of my journey into RTL design and ASIC implementation.
 
----
 
 ## 🔬 Currently Exploring
 
@@ -57,13 +56,11 @@ This GitHub is where I document my journey through digital hardware design by sh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomikap)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pbhoomika1712@gmail.com)
 
----
 
 # 📊 GitHub Statistics
 
 ![](https://github-readme-stats.shion.dev/api?username=bhoomika-rtl&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
 
----
 
 <!--
 Thank you for visiting my GitHub profile!

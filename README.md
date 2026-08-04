@@ -37,8 +37,10 @@ This GitHub is where I document my journey through digital hardware design by sh
 - Terasic DE10-Lite (Intel MAX 10)
 - Terasic DE2-115 (Altera Cyclone IV E)
 
-### 📡 Communication Protocols: UART, SPI, I²C
-
+### 📡 Communication Protocols: 
+- UART
+- SPI
+- I²C
 
 ## 🌐 Connect with Me
 

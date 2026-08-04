@@ -14,39 +14,15 @@ This GitHub is where I document my journey through digital hardware design by sh
 - RTL-to-GDSII Design Flow
 
 
-### 💻 Languages
-- Verilog
-- SystemVerilog
-- C Programming
+### 💻 Languages: Verilog | SystemVerilog | C Programming
 
-### 🧠 Digital Design & Verification
-- RTL Design
-- Functional Verification
-- Testbench Development
-- Finite State Machine (FSM) Design
+### 🧠 Digital Design & Verification: RTL Design, Functional Verification, Testbench Development, Finite State Machine (FSM) Design
 
-### 🖥️ EDA Tools
-- Cadence Incisive
-- Cadence Genus
-- Cadence Innovus
-- Cadence Virtuoso
-- Cadence ADE L
-- Calibre
-- Xilinx Vivado Design Suite
-- Intel Quartus Prime
-- LTspice
-- MATLAB
+### 🖥️ EDA Tools: Cadence Incisive, Cadence Genus, Cadence Innovus, Cadence Virtuoso, Cadence ADE L, Calibre, Xilinx Vivado Design Suite, Intel Quartus Prime, LTspice, MATLAB
 
-### 🔌 FPGA Development Boards
-- Digilent Nexys A7 (Xilinx Artix-7)
-- Digilent Basys 3 (Xilinx Artix-7)
-- Terasic DE10-Lite (Intel MAX 10)
-- Terasic DE2-115 (Altera Cyclone IV E)
+### 🔌 FPGA Development Boards: Digilent Nexys A7 (Xilinx Artix-7), Digilent Basys 3 (Xilinx Artix-7), Terasic DE10-Lite (Intel MAX 10), Terasic DE2-115 (Altera Cyclone IV E)
 
-### 📡 Communication Protocols
-- UART
-- SPI
-- I²C
+### 📡 Communication Protocols: UART, SPI, I²C
 
 
 ## 🌐 Connect with Me

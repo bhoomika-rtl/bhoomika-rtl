@@ -1,6 +1,6 @@
 # 💫 About Me
 
-💡 Hi! I'm **Bhoomika**, an M.Tech student in **VLSI and Nanotechnology** at **Ramaiah University of Applied Sciences, Bengaluru**.
+Hi! I'm **Bhoomika**, an M.Tech student in **VLSI and Nanotechnology** at **Ramaiah University of Applied Sciences, Bengaluru**.
 
 I'm passionate about digital hardware design and enjoy bringing ideas to life through RTL.
 
@@ -9,11 +9,10 @@ This GitHub is where I document my journey through digital hardware design by sh
 
 ## 🔬 Currently Exploring
 
-- 📹 RTL-Based Video Data Acquisition Subsystem
-- 🖼️ Digital Image Processing methodologies
-- 🔄 RTL-to-GDSII Design Flow
+- RTL-Based Video Data Acquisition Subsystem
+- Digital Image Processing methodologies
+- RTL-to-GDSII Design Flow
 
----
 
 ### 💻 Languages
 - Verilog
@@ -49,7 +48,6 @@ This GitHub is where I document my journey through digital hardware design by sh
 - SPI
 - I²C
 
----
 
 ## 🌐 Connect with Me
 

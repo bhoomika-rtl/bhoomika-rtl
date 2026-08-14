@@ -70,4 +70,7 @@ This GitHub is where I document my journey through digital hardware design — s
 ## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.shion.dev/api?username=bhoomika-rtl&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=bhoomika-rtl&color=blueviolet&style=flat-square)

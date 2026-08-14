@@ -67,6 +67,8 @@ This GitHub is where I document my journey through digital hardware design — s
 
 <br>
 
+![Visitors Counter](https://komarev.com)
+
 ## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.shion.dev/api?username=bhoomika-rtl&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)

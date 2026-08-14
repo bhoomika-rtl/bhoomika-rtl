@@ -67,7 +67,7 @@ This GitHub is where I document my journey through digital hardware design — s
 
 <br>
 
-![Visitors Counter](https://komarev.com)
+![Profile Views](https://komarev.com/ghpvc/?username=bhoomika-rtl&color=blueviolet&style=flat-square)
 
 ## 📊 GitHub Statistics
 
